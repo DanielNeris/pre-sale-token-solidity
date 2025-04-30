@@ -187,7 +187,7 @@ pnpm hardhat run scripts/deploy.js --network sepolia
 
 ## License
 
-MIT © 2025 Your Name
+MIT © 2025 Daniel Neris
 
 ---
 
